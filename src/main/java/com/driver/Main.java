@@ -4,10 +4,10 @@ public class Main {
     public static void main (String[] args){
         RWOnly rw = new RWOnly();
 
-        rw.setname("Vishakha");
+        rw.setName("Vishakha");
 
 
-        System.out.println("RWOnly name: " + rw.getname());
+        System.out.println("RWOnly name: " + rw.getName());
 
     }
 }

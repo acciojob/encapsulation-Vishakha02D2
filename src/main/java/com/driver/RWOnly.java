@@ -4,12 +4,12 @@ public class RWOnly {
     private String name;
 
 
-        public String getname() {
+        public String getName() {
 
             return name;
 
         }
-        public void setname(String newname) {
+        public void setName(String newname) {
 
             name = newname;
 
